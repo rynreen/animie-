@@ -1,18 +1,23 @@
 
  body {
-background-color: #9A9483;
- }
 
+background-image: url('images/anime3.jpg');
+background-color: #9A9483;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-size: 85%;
+
+ }
+.stem{
+padding-right:300px;
+}
 
     
 /* Navigation Bar */
 
 .container-fluid{ 
 background-size: 100%;
-font-style: italic;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 background-color: white;
-color:black;
 nav-index: auto;
 }
 

@@ -1,14 +1,16 @@
 body {
+    background-image: url('images/anime6.jpg');
     background-color: #AAA492;
-    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, italic;
+    background-size: 105%;
+
     }
     
-    #intro 
+   
     
     /* Navigation Bar */
     .container-fluid{ 
         background-size: 100%;
-        font-style: italic;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         background-color: white;
         nav-index: auto;
@@ -22,17 +24,34 @@ body {
     
 
 
-    .wrapper {
-        height: 100px;
-        width: 100px;
-        padding-left: 545px;
-    }
-
     .logo {
         padding-left: 515px;
     }
-    .book{
-padding-left: 50px;
 
-
+    .a{
+        padding-left: 400px;
+        
+    }
+    .b{
+        padding-left: 700px;
+     
+    }
+    .c{
+        padding-left: 400px;
+    }
+    .d{ 
+        padding-left: 700px;
+    }
+    .e{
+        padding-left: 400px;
+    }
+    .abc{
+        padding-left: 100px;
+        padding-right: 150px;
+    }
+    .action{
+        padding-left: 50px;
+    }
+    .single-anime{
+        padding-left: 50px;
     }

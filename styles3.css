@@ -1,6 +1,8 @@
 body {
+    background-image: url('images/anime4.png');
     background-color: #C7BEA2;
-
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-size: 100%;
     }
 p{
     padding-left: 200px;
@@ -9,26 +11,26 @@ p{
 
 
 
-    #intro 
-    
-    /* Navigation Bar */
-    
-    .navbar-brand {
-    font-family: "Ubuntu";
-    font-size: 2.5rem;
-    font-weight: bold;
+/* Navigation Bar */
+
+.container-fluid{ 
+    background-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+    nav-index: auto;
     }
     
-    .nav-link {
-    font-size: 1.2rem;
-    font-family: "monospace";
-    background-color: #57837B;
+    .navbar-brand{
+        padding-top: none;
+        padding-bottom: inherit ;
     }
+    
+ 
 
 .bottle{
- padding-left: 20em;
+ padding-left: 5em;
 padding-top: 0em;
-
+padding-right: 20em;
 
 }
 
